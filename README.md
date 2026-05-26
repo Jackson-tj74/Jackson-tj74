@@ -1,8 +1,10 @@
+
+<div background-color="black">
 # :computer: Jackson TUYIKUNDE [**`A FULL STACK WEB DEVELOPER`**]
 
-<h3 align="center">
+<p align="center">
  I'm Jackson Tuyikunde,a passionate Full Stack Developer from Rwanda 🇷🇼 with a strong focus on building modern, responsive, and user-friendly web applications. I specialize in React, Node.js, and MongoDB, and I enjoy turning ideas into clean, efficient, and scalable digital products. I am constantly learning new technologies and improving my skills in both frontend and backend development, with a strong interest in UI/UX design and creating smooth user experiences.
-</h3>
+</p>
 
 <p align="center">
 Building modern web apps with React, Node.js & MongoDB
@@ -151,3 +153,5 @@ Building modern web apps with React, Node.js & MongoDB
 <p align="center">
   <strong>⭐ Thanks for visiting! Consider starring my repos ⭐</strong>
 </p>
+
+</div>
