@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jackson Tuyikunde</h1>
 
 <h3 align="center">
-Full Stack Developer From Rwanda 🇷🇼
+ a passionate Full Stack Developer from Rwanda 🇷🇼 with a strong focus on building modern, responsive, and user-friendly web applications. I specialize in React, Node.js, and MongoDB, and I enjoy turning ideas into clean, efficient, and scalable digital products. I am constantly learning new technologies and improving my skills in both frontend and backend development, with a strong interest in UI/UX design and creating smooth user experiences.
 </h3>
 
 <p align="center">
