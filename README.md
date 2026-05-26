@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Jackson Tuyikunde</h1>
+
+<h3 align="center">
+Full Stack Developer From Rwanda 🇷🇼
+</h3>
+
+<p align="center">
+Building modern web apps with React, Node.js & MongoDB
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;UI%2FUX+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
