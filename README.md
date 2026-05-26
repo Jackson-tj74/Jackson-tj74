@@ -59,23 +59,6 @@ Building modern web apps with React, Node.js & MongoDB
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jackson-tj74&show_icons=true&theme=tokyonight&hide_border=true" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-tj74&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jackson-tj74&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jackson-tj74&theme=darkhub&no-bg=true&no-frame=true&column=7" width="100%" />
-</p>
-
----
 
 ## 🌟 Featured Projects
 
