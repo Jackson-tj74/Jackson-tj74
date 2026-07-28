@@ -91,7 +91,7 @@ Building modern web apps with React, Node.js & MongoDB
 | Language | Proficiency |
 |:---|:---:|
 | 🇷🇼 **Kinyarwanda** | <img src="https://img.shields.io/badge/Native-4ADE80?style=flat-square" /> |
-| 🇬🇧 **English** | <img src="https://img.shields.io/badge/Fluent_(IELTS)-58A6FF?style=flat-square" /> |
+| 🇬🇧 **English** | <img src="https://img.shields.io/badge/(DOULINGO)-58A6FF?style=flat-square" /> |
 
 ---
 
