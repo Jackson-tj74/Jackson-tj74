@@ -1,5 +1,5 @@
 
-# :computer: Jackson TUYIKUNDE [**`A FULL STACK WEB DEVELOPER`**]
+# :computer: Jackson TUYIKUNDE [**`A FULL STACK SOFTWARE DEVELOPER`**]
 
 <hr/>
 
@@ -24,7 +24,7 @@ Building modern web apps with React, Node.js & MongoDB
 #### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,React Native ,tailwind,nextjs" />
 </p>
 
 #### Backend & Database
