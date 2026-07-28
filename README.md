@@ -79,7 +79,8 @@ Building modern web apps with React, Node.js & MongoDB
 | | Certificate | Institution | Type |
 |:---:|:---|:---|:---:|
 | 🎓 | **High School Diploma** | MCE, Rwanda | Academic |
-| 💻 | **Full-Stack Development** | Alight Coding School | Professional |
+| 💻 | **Full-Stack Web Development** | Alight Coding School | Professional |
+| 💻 | **Full-Stack Software Development** | Klab Academy | Professional |
 | 🌍 | **Duolingo International** | Duolingo Platform | International |
 | 📝 | **IELTS Academic** | Certified English Communications | International |
 | 💡 | **Entrepreneurship Challenge** | Innovation Program | Innovator Award |
