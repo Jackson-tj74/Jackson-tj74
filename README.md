@@ -24,7 +24,7 @@ Building modern web apps with React, Node.js & MongoDB
 #### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,React Native ,tailwind,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,typescript,tailwind,nextjs" />
 </p>
 
 #### Backend & Database
